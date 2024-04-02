@@ -1,4 +1,4 @@
-# React Calculator
+# Calculator
 
 This project is a simple calculator application built using React.js. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -19,7 +19,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/your-username/react-calculator.git
+1. Clone the repository: git clone https://github.com/purniiiima/Calculator.git
 
 2. Navigate to the project directory: cd ..
 
